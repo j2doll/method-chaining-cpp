@@ -1,8 +1,3 @@
-#	Method Chaining in C++
-
-- How to do method chaining in C++
-
-```
 #include <iostream>
 #include <string>
 
@@ -35,8 +30,3 @@ int main() {
 
     return 0;
 }
-```
-
-# License
-- MIT License
-- https://github.com/j2doll/method-chaining-cpp
