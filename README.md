@@ -2,7 +2,7 @@
 
 - How to do method chaining in C++
 
-```
+```cpp
 #include <iostream>
 #include <string>
 
